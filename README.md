@@ -1,2 +1,6 @@
 # python-practice
-python practice for learning
+This repository is for learning python.
+## Contents
+- Veriables
+- Functions
+- Loops
